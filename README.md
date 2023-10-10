@@ -5,15 +5,10 @@ In this Power BI project, I undertook a data-driven exploration of an MNC compan
 Training Analysis:
 
 🔵 Explored the number of training applications under each department head.
-
 ✔️ Analyzed the number of training completions for each department head.
-
 📈 Evaluated the training performance of each department head.
-
-🌟 Determined the count of company-sponsored trainings (Marks >=95) for each head.
-
+🌟 Determined the count of company-sponsored training for each head.
 📚 Examined the distribution of training applications across various modules.
-
 📊 Calculated the percentage of self-sponsored vs. company-sponsored training.
 Cost Analysis:
 
