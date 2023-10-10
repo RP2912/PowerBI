@@ -1,6 +1,7 @@
 📊 Power BI Project: MNC Training & Cost Analysis
 
 In this Power BI project, I undertook a data-driven exploration of an MNC company's training programs and associated costs. The objective was to provide valuable insights into training status and expenditure, with a focus on department heads.
+I leveraged data from multiple Excel workbooks, including data extracted from individual sheets within one workbook.
 
 Training Analysis:
 
